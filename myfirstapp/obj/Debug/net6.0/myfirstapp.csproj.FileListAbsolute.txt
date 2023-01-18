@@ -1,0 +1,15 @@
+C:\Repositorios github\Proyectos c#\myfirstapp\bin\Debug\net6.0\myfirstapp.exe
+C:\Repositorios github\Proyectos c#\myfirstapp\bin\Debug\net6.0\myfirstapp.deps.json
+C:\Repositorios github\Proyectos c#\myfirstapp\bin\Debug\net6.0\myfirstapp.runtimeconfig.json
+C:\Repositorios github\Proyectos c#\myfirstapp\bin\Debug\net6.0\myfirstapp.dll
+C:\Repositorios github\Proyectos c#\myfirstapp\bin\Debug\net6.0\myfirstapp.pdb
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfo.cs
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.dll
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\refint\myfirstapp.dll
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.pdb
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\myfirstapp.genruntimeconfig.cache
+C:\Repositorios github\Proyectos c#\myfirstapp\obj\Debug\net6.0\ref\myfirstapp.dll
